@@ -1,0 +1,23 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nta17071997/NODE-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nta17071997/NODE-JS/issues"
+  },
+  "homepage": "https://github.com/nta17071997/NODE-JS#readme",
+  "dependencies": {
+    "exact": "^0.8.0",
+    "express": "^4.17.1"
+  }
+}
